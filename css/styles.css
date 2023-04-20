@@ -50,6 +50,9 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
 }
+img[src="Images/giphy.gif"] {
+    margin: 7rem auto 1rem auto;
+}
 #middlecontainer {
     background-color: #146C94;
 }
@@ -86,7 +89,7 @@ img[alt="hd-image"] {
 }
 .img1 {
     float: left;
-    margin-right: 1.5rem;
+    margin-right: 2rem;
 }
 .img2 {
     float: right;
