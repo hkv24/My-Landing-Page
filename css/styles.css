@@ -8,6 +8,7 @@
 }
 #bottom-container {
     background-color: #6096B4;
+    padding-top: 30px;
 }
 hr {
     width: 5%;
@@ -31,6 +32,9 @@ h1 {
     padding-bottom: 1rem;
     margin-top: 1rem;
     font-weight: normal;
+}
+p {
+    line-height: 2;
 }
 h2 {
     color: #183A1D;
@@ -59,6 +63,7 @@ body {
 .bottom-cloud {
     position: relative;
     bottom: 409px;
+    right: 40px;
 }
 img[src="Images/giphy.webp"] {
     margin-top: 70px;
@@ -68,6 +73,8 @@ img[alt="hd-image"] {
 }
 .copyright {
     margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
 }
 .skill-row {
     width: 50%;
@@ -135,7 +142,9 @@ button {
     text-decoration: none;
  }
 .footer-link {
-    padding: 0 10px 0 10px;
+    padding: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
     color: #BDCDD6;
     text-decoration: none;
  }
@@ -144,4 +153,9 @@ button {
  }
 .copyright {
     padding: 30px;
-} 
+    padding-top: 15px;
+}
+.intro {
+    width: 25%;
+    margin: auto auto 40px auto;
+}
