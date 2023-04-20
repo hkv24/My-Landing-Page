@@ -66,10 +66,7 @@ img[src="Images/giphy.gif"] {
 .bottom-cloud {
     position: relative;
     bottom: 409px;
-    right: 40px;
-}
-img[src="Images/giphy.webp"] {
-    margin-top: 70px;
+    left: 40px;
 }
 img[alt="hd-image"] {
     clip-path: circle(220px);
@@ -103,7 +100,7 @@ img[alt="hd-image"] {
     line-height: 2;
 }
 img[alt="mountain-img"] {
-    margin: 100px auto 0 auto;
+    margin: 100px 150px 0 auto;
     padding-bottom: 0;
 }
 button {
