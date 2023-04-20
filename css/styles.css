@@ -154,7 +154,9 @@ button:hover {
  }
 .copyright {
     padding: 30px;
-    padding-top: 15px;
+    padding-top: 35px;
+    color: #EEE9DA;
+    font-size: 0.75rem;
 }
 .intro {
     width: 25%;
