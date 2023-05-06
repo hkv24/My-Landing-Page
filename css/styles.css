@@ -31,6 +31,8 @@ h1 {
     text-shadow: 1px 1px 2px black, 0 0 25px #000000, 0 0 5px #6096B4;
   }
 .top {
+    width: 17%;
+    margin: auto;
     color: #183A1D;
     font-size: 2rem;
     padding-bottom: 1rem;
@@ -69,7 +71,7 @@ img[src="Images/giphy.gif"] {
 }
 .bottom-cloud {
     position: relative;
-    bottom: 409px;
+    bottom: 400px;
     left: 60px;
 }
 img[alt="hd-image"] {
